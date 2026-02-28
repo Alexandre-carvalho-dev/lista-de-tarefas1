@@ -27,3 +27,19 @@ li{
 .p1{
     color: green;
 }
+.div00{
+    margin-left: 15%;margin-right: 15%;box-shadow: 0 0 15px rgb(21, 71, 87);
+    padding: 10px;background-color: white;
+}
+input{
+    padding: 10px;border-radius: 5px;
+}
+.btadicionar{
+    padding: 10px;border-radius: 10px;
+}
+.divp{
+    text-align: center;
+}
+body{
+    background-color: rgb(236, 233, 230);
+}
